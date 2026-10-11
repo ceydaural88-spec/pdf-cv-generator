@@ -1,5 +1,4 @@
-﻿# pdf-cv-generator
-Markdown
+
 # 📄 Java PDF CV Generator
 
 A modular Java application built with Maven that generates professional CV / Resume documents in PDF format. Designed using Object-Oriented Programming (OOP) principles and low-level PDF document construction.
